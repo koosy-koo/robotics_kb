@@ -9,13 +9,13 @@ vcdz
   :caption: Introduction
   :maxdepth: 1
 
-  로봇공학이란?
-  예제
+  로봇공학이란? <introduction/robotics/index>
+  예제 <introduction/example/index>
 
 .. toctree::
   :hidden:
   :caption: Practice
   :maxdepth: 1
 
-  파이썬
-  ROS
+  파이썬 <practice/python/index>
+  ROS <practice/ros/index>
